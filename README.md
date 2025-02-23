@@ -90,10 +90,11 @@ Pour créer un administrateur :
 
 php artisan make:filament-user
 
+---
 
-🛠️ Commandes utiles
+## 🛠️ Commandes utiles
 
-    ⚡ Mettre à jour les dépendances
+⚡ Mettre à jour les dépendances
 
 composer update
 npm update
